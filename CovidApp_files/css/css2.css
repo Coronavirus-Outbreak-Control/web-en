@@ -1,6 +1,8 @@
+
+
 /* cyrillic-ext */
 @font-face {
-  font-family: 'PT Sans';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -9,7 +11,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'PT Sans';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -18,7 +20,7 @@
 }
 /* latin-ext */
 @font-face {
-  font-family: 'PT Sans';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -27,7 +29,7 @@
 }
 /* latin */
 @font-face {
-  font-family: 'PT Sans';
+  font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -36,7 +38,7 @@
 }
 /* cyrillic-ext */
 @font-face {
-  font-family: 'PT Sans Narrow';
+  font-family: 'Open Sans Narrow';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -45,7 +47,7 @@
 }
 /* cyrillic */
 @font-face {
-  font-family: 'PT Sans Narrow';
+  font-family: 'Open Sans Narrow';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
